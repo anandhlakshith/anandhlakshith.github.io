@@ -364,8 +364,9 @@ body {
 }
 
 .about-img-holder .about-img {
-  width: 70%;
+  width: 90%;
   margin-bottom: 15px;
+  border-radius: 20px;
 }
 
 .about-caption {
@@ -611,8 +612,9 @@ body {
     align-items: center;
 }
 .contact-img-holder .about-img {
-  width: 50%;
+  width: 60%;
   margin-bottom: 15px;
+  border-radius: 20px;
 }
 .cotactName{
   color: #695aa6;
